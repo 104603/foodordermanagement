@@ -10,7 +10,6 @@
 
 •	Language: C 
 
-
 # Functional Requirements:
 
 •	Order: Allows customers to place orders by entering the serial number corresponding to the item & its quantity.
