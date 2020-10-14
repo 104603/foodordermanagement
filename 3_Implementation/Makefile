@@ -1,4 +1,4 @@
-PROJECT_NAME = FoodOrderManagement
+PROJECT_NAME = foodordermanagement
 
 BUILD = build
 
