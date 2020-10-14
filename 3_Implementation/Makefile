@@ -6,9 +6,6 @@ BUILD = build
 SRC = main.c\
 src/food.c\
 
-# All test source files
-TEST_SRC = src/food.c\
-test/test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
