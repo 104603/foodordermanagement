@@ -1,5 +1,6 @@
 name: Unit testing
 
+
 on:
   push:
     branches: [ master ]
@@ -9,6 +10,7 @@ on:
 jobs:
   build:
 
+
     runs-on: ubuntu-latest
 
     steps:
@@ -16,4 +18,4 @@ jobs:
     - name: Install Cunit
       run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
-      run:  make test
+      run:  make test -C 03_Implementation/
