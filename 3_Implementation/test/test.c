@@ -2,7 +2,7 @@
 #include <CUnit/CUnit.h>
 
 #include <food.h>
-#define PROJECT_NAME "FoodOrderManagement"
+#define PROJECT_NAME "foodordermanagement"
 
 //void testdel();
 
