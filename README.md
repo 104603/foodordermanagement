@@ -1,4 +1,4 @@
-(https://github.com/104603/foodordermanagement/workflows/cppcheck-action/badge.svg)
+![cppcheck-action](https://github.com/104603/foodordermanagement/workflows/cppcheck-action/badge.svg)
 
 # Food Order Management
 Food Order Management System is based on the concept of ordering food and managing employee records. The user can easily use its feature. This application has two categories; Admin section and customer section. Admin section, from where the user can manage employee and customer section, from where a user can order food. This mini project contains limited features, but the essential one. 
